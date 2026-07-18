@@ -1,3 +1,3 @@
 # cpp-learning
 
-just for fun
+just for learn
